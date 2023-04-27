@@ -9,4 +9,4 @@ In this repository you can find examples of test documentation that I wrote pers
 ### Solution 
 [Smoke checklist](https://docs.google.com/spreadsheets/d/1unFAvWBSd9reIXtD-Buhpf67WMB-RTWSxJeZy-lsU4M/edit?usp=sharing) 
 
-Regression checklist 
+[Regression checklist](https://docs.google.com/spreadsheets/d/1JxkujT2-03cxBk7xHwigMDCZ1npgX5ClemrdpEgyOb0/edit?usp=sharing) 
