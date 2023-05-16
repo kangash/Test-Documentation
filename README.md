@@ -17,3 +17,8 @@ This repository presents examples of my test artifacts: checklists, bug reports,
 
 ---
 
+### Task 2
+- Test a prototype cloud drive
+- Write bug reports on all defects that will be found
+- Prepare a test report
+- Write a regression test plan with sufficient functional coverage 
