@@ -1,5 +1,5 @@
 # Test Documentation
-This repository presents examples of my test artifacts: checklists, bug reports, test reports, and test plans. 
+This repository presents examples of my test artifacts: checklists, bug reports, etc. 
 
 ---
 
@@ -22,3 +22,8 @@ This repository presents examples of my test artifacts: checklists, bug reports,
 - Write bug reports on all defects that will be found
 - Prepare a test report
 - Write a regression test plan with sufficient functional coverage 
+
+### Solution
+- [Bug reports]()
+- [Test report]()
+- [Regression test plan as a Miro mind map]() 
