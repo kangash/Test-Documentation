@@ -13,5 +13,7 @@ This repository presents examples of my test artifacts: checklists, bug reports,
 
 - [Regression checklist](https://docs.google.com/spreadsheets/d/1JxkujT2-03cxBk7xHwigMDCZ1npgX5ClemrdpEgyOb0/edit?usp=sharing) 
 
+(These checklists were written with the team)
+
 ---
 
