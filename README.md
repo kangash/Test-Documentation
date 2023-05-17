@@ -21,7 +21,7 @@ Mobile app with widgets to track the price of currencies and coins.
 ---
 
 ## Project 2
-Cloud storage. Functionality: 
+Cloud storage with the following functionality: 
 - Upload files, the maximum size of one file is 7 MB 
 - Download, rename, delete files and folders
 - Generate link to download file without authorization
@@ -29,4 +29,4 @@ Cloud storage. Functionality:
 ### Test artifacts:
 - [Bug reports](https://docs.google.com/spreadsheets/d/1fmArRB6nvBxU2BjQY6xPsxGx9-Pf4-F2l5oEbIdAJQk/edit?usp=sharing)
 - [Test report](https://docs.google.com/document/d/1GVlBnM-k_fZsNew4QAwcoReLHAQHw65qmJEcrL4VQx4/edit?usp=sharing)
-- [Regression test plan as a Miro mind map](https://miro.com/app/board/uXjVMNBeTnM=/?share_link_id=287452285459) 
+- [Regression test plan (mind map)](https://miro.com/app/board/uXjVMNBeTnM=/?share_link_id=287452285459)
