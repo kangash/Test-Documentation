@@ -22,12 +22,12 @@ This repository presents examples of my test artifacts: checklists, bug reports,
 ---
 
 ## Task 2
-- Test a cloud storage prototype
-- Write bug reports on all defects that will be found
+- Test a cloud storage
+- Write bug reports 
 - Prepare a test report
 - Write a regression test plan with sufficient functional coverage 
 
 ### Solution
-- [Bug reports]()
-- [Test report]()
-- [Regression test plan as a Miro mind map]() 
+- [Bug reports](https://docs.google.com/spreadsheets/d/1fmArRB6nvBxU2BjQY6xPsxGx9-Pf4-F2l5oEbIdAJQk/edit?usp=sharing)
+- [Test report](https://docs.google.com/document/d/1GVlBnM-k_fZsNew4QAwcoReLHAQHw65qmJEcrL4VQx4/edit?usp=sharing)
+- [Regression test plan as a Miro mind map](https://miro.com/app/board/uXjVMNBeTnM=/?share_link_id=287452285459) 
